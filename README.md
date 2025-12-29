@@ -1,12 +1,26 @@
 # pmn-flashcards-jp
-What is PMN?
+PMN とは？
 
-PMN (Pivotal Mining Note) is a Bitcoin mining–backed financial product
-designed for long-term Bitcoin accumulation.
+PMN（Pivotal Mining Note）は、
+ビットコインのマイニングインフラに基づいた金融商品であり、
+長期的なビットコインの蓄積を目的としています。
 
-It is built on:
-	•	Real-world mining infrastructure
-	•	A fixed-term hashrate structure
-	•	U.S.-compliant financial frameworks
+特徴：
+	•	実体のあるマイニング基盤
+	•	期間固定型のハッシュレート構造
+	•	米国の証券規制に準拠した設計
 
-This flashcard project aims to explain why PMN exists, what problems it addresses, and how it differs from simply buying Bitcoin — without requiring prior knowledge.
+PTS について
+
+Pivotal Trend Service（PTS） は、
+実体のあるビットコインマイニングインフラを基盤に、
+コンプライアンス重視の金融商品を構築しています。
+
+私たちが重視しているのは：
+	•	透明性
+	•	長期視点
+	•	インフラ起点の設計思想
+
+※ 本プロジェクトは投資勧誘や商品条件の説明を目的とするものではありません。
+学習用・オンボーディング用の
+軽量な教育コンテンツとして利用できます。
